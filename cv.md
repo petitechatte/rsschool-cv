@@ -2,7 +2,7 @@
 
 ## Job objective
 
-**Junior frontend developer**
+**Junior Frontend Developer**
 
 ## Personal information
 
