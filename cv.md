@@ -60,4 +60,4 @@ Also I have an extensive experience of self-education. I am keen on knowledge an
 
 - [email](natalyavaskot@gmail.com)
 - [github](https://github.com/petitechatte)
-- [web-site](http://htmlkot.ru)
+- [website](http://htmlkot.ru)
