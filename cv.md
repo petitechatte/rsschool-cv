@@ -47,8 +47,6 @@ Also I have an extensive experience of self-education. I am keen on knowledge an
             }
           }
         });
-      }
-    }
 ```
 
 ## Education
